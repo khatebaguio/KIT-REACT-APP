@@ -21,10 +21,10 @@ export default function Hobbies() {
               <div>
                 <p style={{ fontSize: '0.85rem', fontWeight: 600, color: '#333', marginBottom: '10px' }}>Passions & Interests</p>
                 <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px' }}>
-                  <span style={{ backgroundColor: '#581c25', color: '#fff', padding: '8px 18px', borderRadius: '20px', fontSize: '0.8rem', fontWeight: 600 }}>💃 Dancing</span>
-                  <span style={{ backgroundColor: '#e3d5c6', color: '#333', padding: '8px 18px', borderRadius: '20px', fontSize: '0.8rem', fontWeight: 600, border: '1px solid #d5c4b0' }}>📺 Watching K-Drama</span>
-                  <span style={{ backgroundColor: '#e3d5c6', color: '#333', padding: '8px 18px', borderRadius: '20px', fontSize: '0.8rem', fontWeight: 600, border: '1px solid #d5c4b0' }}>🎵 Listening to Music</span>
-                  <span style={{ backgroundColor: '#e3d5c6', color: '#333', padding: '8px 18px', borderRadius: '20px', fontSize: '0.8rem', fontWeight: 600, border: '1px solid #d5c4b0' }}>✈️ Travelling</span>
+                  <span style={{ backgroundColor: '#581c25', color: '#fff', padding: '8px 18px', borderRadius: '20px', fontSize: '0.8rem', fontWeight: 600 }}> Dancing</span>
+                  <span style={{ backgroundColor: '#e3d5c6', color: '#333', padding: '8px 18px', borderRadius: '20px', fontSize: '0.8rem', fontWeight: 600, border: '1px solid #d5c4b0' }}> Watching K-Drama</span>
+                  <span style={{ backgroundColor: '#e3d5c6', color: '#333', padding: '8px 18px', borderRadius: '20px', fontSize: '0.8rem', fontWeight: 600, border: '1px solid #d5c4b0' }}> Listening to Music</span>
+                  <span style={{ backgroundColor: '#e3d5c6', color: '#333', padding: '8px 18px', borderRadius: '20px', fontSize: '0.8rem', fontWeight: 600, border: '1px solid #d5c4b0' }}> Travelling</span>
                 </div>
               </div>
             </div>
