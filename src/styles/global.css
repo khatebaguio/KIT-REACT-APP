@@ -58,7 +58,6 @@
   box-sizing: border-box;
 }
 
-/* Desktop screens (768px wide and up) */
 @media (min-width: 768px) {
   .page-main {
     padding: 2rem 0;
