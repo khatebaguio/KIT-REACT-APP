@@ -1,6 +1,6 @@
 export function CardDataSection() {
   const cards = [
-    { title: "Khate Charmeille Baguio", desc: "19 years old , Born on June 05, 2006" },
+    { title: "Khate Charmeille Baguio", desc: "20 years old , Born on June 05, 2006" },
     { title: "BSIT Students", desc: "College student building skills in web development" },
     { title: "Passionate Dancer", desc: "Enjoys movement, choreography, and physical activity." },
     { title: "Hobbies & Interests", desc: "Watching K-dramas, traveling, and listening to music." },
